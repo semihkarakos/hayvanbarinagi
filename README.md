@@ -1,3 +1,7 @@
 Kullanicilar
-    admin--> eposta = "b171210387@sakarya.edu.tr", sifre = "123", ad = "Semih", soyad = "Karaköse", telefon = "05077596791", il = "AMASYA", ilce = "MERKEZ", mahalle = "55Evler Mahallesi", adres = "nehir sitesi No:3" },
-    user-->  eposta = "b171210388@sakarya.edu.tr", sifre = "123", ad = "User", soyad = "User", telefon = "05077596792", il = "AMASYA", ilce = "MERKEZ", mahalle = "55Evler Mahallesi", adres = "nehir sitesi No:3" 
+admin -->
+    eposta = "b171210387@sakarya.edu.tr", sifre = "123", 
+    ad = "Semih", soyad = "Karaköse", telefon = "05077596791"
+user --> 
+    eposta = "b171210388@sakarya.edu.tr", sifre = "123",
+    ad = "User", soyad = "User", telefon = "05077596792" 
